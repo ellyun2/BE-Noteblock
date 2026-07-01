@@ -45,7 +45,7 @@ winget install --name Julia --id 9NJNWW8PVKMN -e -s msstore
 ```
 </details>
 
-![Erro ao carregar imagem!]([https://julialang.gallerycdn.vsassets.io/extensions/julialang/language-julia/0.17.7/1595140314513/Microsoft.VisualStudio.Services.Icons.Default](https://play-lh.googleusercontent.com/aVXJvUhDmmXnmpT0P_QhCVzGl8H7CceQpvK_LZuKlRNqQY_PotL3VAJg129svaVxIO0))
+![Erro ao carregar imagem!]([[https://julialang.gallerycdn.vsassets.io/extensions/julialang/language-julia/0.17.7/1595140314513/Microsoft.VisualStudio.Services.Icons.Defaulthttps://play-lh.googleusercontent.com/aVXJvUhDmmXnmpT0P_QhCVzGl8H7CceQpvK_LZuKlRNqQY_PotL3VAJg129svaVxIO0)
 
 
 
