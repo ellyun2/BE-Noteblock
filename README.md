@@ -1,5 +1,5 @@
 <details>
-  <summary><a> --> Informações do Projeto <-- </a></summary>
+  <summary><a>Informações do Projeto</a></summary>
 
 ### Informações de Desenvolvimento
 O Projeto Noteblock ( sem nome ainda definido.) É um simples bloco de notas escrito em linguagem Julia.
@@ -44,9 +44,5 @@ winget install --name Julia --id 9NJNWW8PVKMN -e -s msstore
   https://www.jdoodle.com/online-compiler-julia
 ```
 </details>
-
-![Erro ao carregar imagem!]([[https://julialang.gallerycdn.vsassets.io/extensions/julialang/language-julia/0.17.7/1595140314513/Microsoft.VisualStudio.Services.Icons.Defaulthttps://play-lh.googleusercontent.com/aVXJvUhDmmXnmpT0P_QhCVzGl8H7CceQpvK_LZuKlRNqQY_PotL3VAJg129svaVxIO0)
-
-
 
 
